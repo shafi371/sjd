@@ -1,0 +1,11 @@
+a {
+    border-radius: 2px;
+  }
+  a.active,a:hover{
+    background: mediumslateblue;
+    transition: .5s;
+  }
+  div a {
+    margin: 8 auto;
+    padding: 8px auto;
+  }
